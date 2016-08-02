@@ -1,0 +1,14 @@
+layout_spectrum: 0.8503456960897893
+typography_spectrum: 0.6914885321166366
+color:
+  brandStrength: 0.6642042226158082
+  lightness: 0.7131626796908677
+  saturation: 0.2776698595844209
+  rhythmicContrast: 0.48145895707421005
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: SmartPracticalBusiness
